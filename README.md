@@ -1,53 +1,66 @@
 # Hi there, I'm CodeMaestroPro 👋
 
+## Collins Luper Pever
 
-## I'M Collins Luper Pever
+Full-Stack Software Developer | Laravel • Flutter • Python • React.js
 
-Computer Science graduate with practical experience in web development, digital skills training, and digital engagement support. I combine technical fundamentals with communication, documentation, and analytics to build functional, user-focused digital solutions. Open to collaboration, learning, and relocation opportunities.
-
-### Professional Focus
-
-* Web development fundamentals and frontend support
-* Digital skills training and technical facilitation
-* Digital marketing support and online engagement
-* Reporting, analytics interpretation, and documentation
+I am a full-stack software developer with hands-on experience building web, mobile, and SaaS solutions using JavaScript (React.js), PHP (Laravel), Flutter, and Python. I have contributed to government, media, and public-sector technology projects, collaborating with cross-functional teams to deliver reliable, scalable, and user-focused digital products. My work combines practical software engineering, structured problem-solving, and a strong understanding of how technology supports business, media, and institutional objectives.
 
 ### Technical Skills
 
-* HTML, CSS, JavaScript
-* MySQL
-* Website and engagement analytics
-* Digital marketing and campaign support
-* Social media content planning and management
-* Microsoft Excel, Word, and PowerPoint
+* Frontend: JavaScript, React.js, HTML5, CSS3, Tailwind CSS
+* Backend: PHP, Laravel, Python
+* Mobile Development: Flutter (Android)
+* Databases: MySQL, PostgreSQL, SQLite
+* APIs: RESTful API design and integration
+* Tools & Platforms: Git, GitHub, Firebase, Linux, VS Code
+* Other: SaaS architecture (foundational), authentication systems, deployment fundamentals
 
-### Experience
+### Professional Experience
 
-Digital Skills Trainer / Web Development Facilitator – Sky-Hub, Nigeria
-Delivered structured web development and digital skills training for undergraduate IT students, supported frontend website structures, introduced learners to digital presence concepts, tracked learning progress, prepared reports, and collaborated with stakeholders to achieve measurable outcomes.
+* Collaborated on the development of the Invest Benue official website, a government platform showcasing investment opportunities and economic initiatives.
+* Designed and developed MiddleLens TV for the Chief Media to the Governor of Benue State, with focus on performance, accessibility, and content delivery.
+* Built and maintained full-stack applications using Laravel and React.js, handling backend logic, APIs, and frontend interfaces.
+* Developed Android applications using Flutter with clean UI flows and backend integrations.
+* Worked within version-controlled, collaborative development workflows.
 
-Volunteer Freelancer – Digital & Employability Support – Jobberman Nigeria
-Supported youth employability and digital visibility initiatives through content coordination, workflow support, analytics interpretation, reporting, and digital communication within recruitment-focused programs.
+### Web Development Instructor
+
+Sky-Hub Nigeria – Makurdi, Benue State
+
+* Delivered structured web development training to undergraduate IT students.
+* Taught students from Benue State University and the Federal University of Agriculture, Makurdi.
+* Simplified programming concepts and guided learners through project-based, real-world development practices.
+
+### Volunteer & Internship Experience
+
+* Volunteer Freelancer – Jobberman Nigeria: Supported recruitment and employability initiatives, digital tasks, workflow coordination, and candidate support.
+* Software / Digital Intern – Techpros Nigeria
+* Digital Skills Intern – Simplilearn
+
+### SaaS & Independent Projects
+
+* EduArena: Education-focused SaaS platform aimed at improving access to learning tools and academic resources.
+* WorkLink: Productivity and work-management solution focused on structured workflows and opportunities.
+* Additional experimental SaaS projects addressing practical, real-world problems.
 
 ### Education
 
 Bachelor of Science (B.Sc.) in Computer Science
-Joseph Sarwuan Tarka University (formerly University of Agriculture, Makurdi)
+Joseph Sarwuan Tarka University (formerly University of Agriculture, Makurdi), Benue State
 
 ### Certifications
 
-* B.Sc. Degree Certificate
-* NYSC Discharge Certificate
-* WAEC / NECO
+* National Youth Service Corps (NYSC)
+* Bachelor of Science (B.Sc.) Certificate
+* WAEC
+* NECO
 
-### Additional Strengths
+### Location & Availability
 
-Strong adaptability, entrepreneurial mindset, clear communication, analytical thinking, and a continuous drive to learn and apply new digital tools and technologies.
+Nigeria | Open to remote roles and relocation
 
 ### Contact
 
-Email: [Code_Maestro_Pro@proton.me](mailto:)Code_Maestro_Pro@proton.me
+Email: [Code_Maestro_Pro@proton.me](mailto:Code_Maestro_Pro@proton.me)
 
-
-* Rewrite this for **international remote roles**
-* Create a **short punchy bio** (2–3 lines) for the top section
